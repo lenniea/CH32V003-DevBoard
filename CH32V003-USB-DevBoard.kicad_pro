@@ -667,7 +667,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "out/",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -798,7 +798,7 @@
         "uuid": "f6ee0cf7-f0d9-4a1e-9c55-b03cbdd35078"
       }
     ],
-    "used_designators": "",
+    "used_designators": "#PWR1,#PWR3-7,#PWR20-26,J1-4,U1-2,U4,C1,C3,P1",
     "variants": []
   },
   "sheets": [
